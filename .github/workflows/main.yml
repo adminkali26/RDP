@@ -4,7 +4,7 @@ workflow_dispatch:
 
 jobs:
 	build:
-		name:Star Building...
+		name:Star Building..
 		runs-on:windows-latest
 
 
